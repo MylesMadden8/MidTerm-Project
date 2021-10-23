@@ -4,7 +4,7 @@ I am an information Technology student who is learning about Github
 
 <h1> Hobbies </h1>
 <ul>
-  <li> Baseball</li>
+  <li> Eating</li>
   <li> Valorant</li>
   <li> Music</li>
   </ul>
@@ -12,4 +12,4 @@ I am an information Technology student who is learning about Github
 
 [Visit Bing](www.bing.com)
 <p> 
-This is my second year in college. I wanted to do something with computers because they interest me more than any other subject of school. My interest in programmin g has rapidly declined recently. While trying to complete this assignment I spent hours watching youtube videos trying to learn about Github. I still dont know how to create multiple pages or how to link these pages together. i am extremely confused and figured that if I cant even figure this out I should be learning about information technology. I still am trying to complete as much as I can because I dont want a zero for the first project.</p>
+This is my second year in college. The college experience has not been all that I have dreamed it would be. Growing up I have heard from many people that college was the best time of their lives. Personally I believe the best time of my life was when I was in elementary school because I had nothing to worry about. Now that I am in college I have a lot to be concerend about. I have learned that you want what you dont have. When you are a kid you want to be an adult but when you become and adult you want to be a kid. I hope someday being an adult will be fun.</p>
